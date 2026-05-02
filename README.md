@@ -52,7 +52,7 @@ Custom-scripted WooCommerce logic that dynamically adjusts stock when customers 
 
 ### local llm research
 
-This is what I spend my free compute on. I am not trying to replace GPT-4. I am trying to figure out how small, fast, purpose-built models can handle specific tasks reliably without a cloud subscription and a privacy concern.
+This is what I spend my free compute on. I am not trying to replace GPT. I am trying to figure out how small, fast, purpose-built models can handle specific tasks reliably without a cloud subscription and a privacy concern.
 
 Current focus areas: visual QA, automated unit test generation, competitor research pipelines, and RAG setups with vector databases. Heavy use of Ollama and Open Claw. The goal is models that do one thing well and do it offline.
 
